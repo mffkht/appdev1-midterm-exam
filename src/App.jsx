@@ -59,6 +59,7 @@ function App() {
             <i className="fa fa-times" />
           </span>
         </div>
+        
         <section className="popupBody">
           {/* Social Login */}
           <div className="social_login">
